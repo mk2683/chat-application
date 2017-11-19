@@ -44,5 +44,6 @@ On a new Command Line:
 sudo mongo
 use chat
 ```
+Now open index.html on a web browser.
 
 
